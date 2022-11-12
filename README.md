@@ -7,6 +7,7 @@ This was a project based on the [API]() in [Openweathermap]().
 * This was my day *8* project in HTML, CSS, Javascript.
 
 * I used to [fetch]() data from the *API* and shown it in the Front.
+* Sometimes You have to pay money for **API** .
 
 ## SCREENSHOTS
 ---
